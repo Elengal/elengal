@@ -87,9 +87,6 @@ git checkout -b feature/your-feature-name
 ### 4. Проверьте
 
 ```bash
-# Проверьте код
-python -m pytest tests/
-
 # Проверьте обучение
 python train_elengal.py
 ```
