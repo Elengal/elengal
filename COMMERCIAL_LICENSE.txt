@@ -1,6 +1,6 @@
 COMMERCIAL LICENSE AGREEMENT FOR ELENGAL
 
-Copyright (c) 2025 Alexander Gennadyevich Semushkin (Elengal)
+Copyright (c) 2026 Alexander Gennadyevich Semushkin (Elengal)
 
 Elengal is dual-licensed. You may use it under the terms of the GNU Affero General Public License v3.0 (AGPLv3) for open source or non-commercial projects.
 
