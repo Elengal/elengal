@@ -4,13 +4,7 @@
 elengal/
 ├── elengal_v1.py           # Основная модель
 ├── train_elengal.py        # Скрипт обучения
-│
-├── examples/
-│   └── simple_example.py   # Пример использования
-│
-├── tests/
-│   └── test_elengal.py     # Тесты (если есть)
-│
+|── simple_example.py       # Пример использования
 ├── README.md               # Документация
 ├── CONTRIBUTING.md         # Правила контрибуции
 ├── CODE_OF_CONDUCT.md      # Кодекс поведения
