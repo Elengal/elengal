@@ -68,7 +68,7 @@ use your contributions under these licenses.
 ### 1. Fork и Clone
 
 ```bash
-git clone https://github.com/Elengal/elengal.git
+git clone https://github.com/YOUR_USERNAME/elengal.git
 cd elengal
 ```
 
