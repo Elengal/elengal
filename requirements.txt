@@ -1,0 +1,15 @@
+# Elengal Dependencies
+
+# Core
+torch>=2.0.0
+numpy>=1.24.0
+
+# Optional: Visualization & Analysis
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+
+# Optional: Progress bars
+tqdm>=4.65.0
+
+# Development: Testing
+pytest>=7.0.0

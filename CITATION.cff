@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Если используете Elengal в своей работе, пожалуйста, цитируйте:"
+title: "Elengal"
+version: 1.0.0
+date-released: 2025-03-21
+url: "https://github.com/Elengal/elengal"
+authors:
+  - family-names: Semushkin
+    given-names: Alexander Gennadyevich
+    email: Konter88@mail.ru
+keywords:
+  - deep-learning
+  - transformers
+  - q-analysis
+  - ramanujan
+  - physics-inspired
+  - semantic-space
+  - token-physics
+license: AGPL-3.0
+abstract: |
+  Elengal is a novel deep learning architecture that treats tokens as physical entities
+  in a semantic space. Unlike traditional transformers with static vectors, each token
+  in Elengal has mass, energy, phase, magnetic moment, and genome. The model uses
+  q-exponentials from Ramanujan's q-analysis, Jacobi theta functions for positional
+  encoding, and Eisenstein fields for crystalline structure. Physical forces like
+  gravity and magnetism govern token interactions, creating emergent semantic meaning.
