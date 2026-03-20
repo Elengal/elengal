@@ -245,7 +245,7 @@ Elengal использует **двойное лицензирование**:
 @software{elengal2025,
   author = {Semushkin, Alexander Gennadyevich},
   title = {Elengal: Tokens as Physical Entities in Semantic Space},
-  year = {2025},
+  year = {2026},
   url = {https://github.com/Elengal/elengal}
 }
 ```
